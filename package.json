@@ -1,0 +1,17 @@
+{
+  "name": "crawler-mercado-livre",
+  "version": "0.0.1",
+  "description": "Crawler Mercado Livre",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Antonio Mendes",
+  "license": "",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "log4js": "^6.2.1",
+    "moment": "^2.25.3"
+  }
+}
