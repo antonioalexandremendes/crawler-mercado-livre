@@ -17,11 +17,11 @@ Rotas
 
 POST : http://127.0.0.1:3000/pesquisar
 	|_ Pesquisar produtos no mercado livre
-    |_ Exemplo dados entrada:
-    |   {
-	|       "search": "bike",
-	|       "limit": "10"
-    |   }
+	|_ Exemplo dados entrada:
+	|	{
+	|		"search": "bike",
+	|		"limit": "10"
+	|	}
 	|
 	|_ Exemplo retorno:
 	|	[{
